@@ -1,5 +1,7 @@
 import unittest
 from expense import new_expense
+from user import add_user
+
 
 class TestExpense(unittest.TestCase):
 
